@@ -1,8 +1,11 @@
-<<<<<<< Updated upstream
+Updated upstream
+Updated upstream
 git pull
 git stash
 git pull
 git stash pop
-=======
 This is!!
->>>>>>> Stashed changes
+Stashed changes
+
+This is!!
+Stashed changes
